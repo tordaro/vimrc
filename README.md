@@ -1,2 +1,2 @@
 # vimrc
-Personal vimrc
+My personal vimrc-file. Up for grabs! :)
