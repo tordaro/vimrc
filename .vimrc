@@ -1,3 +1,6 @@
+" Set encoding
+set encoding=utf-8
+
 " Line numbers
 set nu
 
