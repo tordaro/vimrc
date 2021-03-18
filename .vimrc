@@ -1,3 +1,6 @@
+" Set language
+set langmenu=en_US
+
 " Set encoding
 set encoding=utf-8
 
