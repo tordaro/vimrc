@@ -1,5 +1,6 @@
 " Set language
 set langmenu=en_US
+let $LANG = 'en_US'
 
 " Set encoding
 set encoding=utf-8
